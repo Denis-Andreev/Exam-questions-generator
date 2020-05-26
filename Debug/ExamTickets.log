@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\User\source\repos\ExamTickets\MyForm.h(278): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\ExamTickets\MyForm.h(287): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\ExamTickets\MyForm.h(291): warning C4018: <: несоответствие типов со знаком и без знака
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ExamTickets.vcxproj -> C:\Users\User\source\repos\ExamTickets\Debug\ExamTickets.exe
